@@ -3,4 +3,4 @@
  
  
  
-![app.preview](./application preview.png)
+![app.preview](application preview.png)
