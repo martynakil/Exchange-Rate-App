@@ -2,6 +2,7 @@
 <h1> Exchange Rate APP </h1>
 
 <h2>Simple application  "Exchange Rate APP" with API  :blue_book:</h2>
+-----
 >from the series: learning the basics of Java script  :muscle:
 
 ----
