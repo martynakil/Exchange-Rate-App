@@ -29,10 +29,10 @@
 -----
 
 
-:computer: TECHNOLOGIES : html, css and JS.
+:computer: TECHNOLOGIES : html, css and JS, API
 
 —
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/STONE-PAPER-SCISSORS-GAME)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/personal-expense-manager)
 
 
 
