@@ -1,14 +1,37 @@
-# Exchange-Rate-App
- check the current exchange rate ( API )
- 
- 
-This is one of the first projects where I learned to download data from API.
-I used: https://ratesapi.io/
 
-I was learning the promise.
+<h1> Exchange Rate APP </h1>
+
+*<h2>Simple application  "Exchange Rate APP" with API * :blue_book:</h2>
+>from the series: learning the basics of Java script  :muscle:
+
+----
 
 
-Technology: HTML, CSS, JAVA SCRIPT, API
+* choose the currency you are interested in
+* enter a number
+* you can switch sides of currency
+
+
+-------
+
+<h3>What did I use in the project? What have I learned?</h3>
+
+* I learned the basics of JS here
+* I was learning the promise.
+* I practiced CS
+* Arrow functions
+* DOM Elements 
+* I used API : https://ratesapi.io/
+
+
+
+-----
+
+
+:computer: TECHNOLOGIES : html, css and JS.
+
+—
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/STONE-PAPER-SCISSORS-GAME)
 
 
 
