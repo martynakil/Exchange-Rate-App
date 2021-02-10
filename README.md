@@ -36,7 +36,7 @@
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/Exchange-Rate-App/07%20-%20Exchange%20Rate%20App/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/Exchange Rate App/index.html)
 
 
 -----
