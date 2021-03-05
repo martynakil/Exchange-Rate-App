@@ -36,7 +36,7 @@
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/Exchange-Rate-App/Exchange%20Rate%20App/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/Exchange-Rate-App/Exchange%20Rate%20App/index.html)
 
 
 -----
@@ -47,7 +47,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 —---
 
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/personal-expense-manager)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/personal-expense-manager)
 
 
 
